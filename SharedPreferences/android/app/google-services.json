@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79692474995",
+    "project_id": "laptrinh-dnt",
+    "storage_bucket": "laptrinh-dnt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79692474995:android:5a2fb72f118cd59b485806",
+        "android_client_info": {
+          "package_name": "com.example.sharepreferences"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRkA2PwWbxmOfFjke_glv3_sS9k7he40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
